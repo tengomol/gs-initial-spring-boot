@@ -34,4 +34,9 @@
         </plugins>
     </build>
 
+    <scm>
+    	<url>https://github.com/tengomol/gs-initial-spring-boot</url>
+    	<connection>scm://github.com/tengomol/gs-initial-spring-boot.git</connection>
+    	<developerConnection>scm://github.com/tengomol/gs-initial-spring-boot.git</developerConnection>
+    </scm>
 </project>
