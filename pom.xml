@@ -23,6 +23,7 @@
 
     <properties>
         <java.version>1.8</java.version>
+	    <main.basedir>${project.basedir}</main.basedir>
     </properties>
 
 
@@ -36,8 +37,8 @@
     </build>
 
     <scm>
-        <connection>scm:git:file://.</connection>
-        <developerConnection>scm:git:file://.</developerConnection>
-        <url>scm:git:file://.</url>
+        <connection>scm:git:file://${main.basedir}</connection>
+        <developerConnection>scm:git:file://${main.basedir}</developerConnection>
+        <url>scm:git:file://${main.basedir}</url>
     </scm>
 </project>
