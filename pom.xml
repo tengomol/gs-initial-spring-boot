@@ -36,8 +36,8 @@
     </build>
 
     <scm>
-    	<url>https://github.com/tengomol/gs-initial-spring-boot</url>
-    	<connection>scm:git:git://github.com/tengomol/gs-initial-spring-boot.git</connection>
-    	<developerConnection>scm:git:git://github.com/tengomol/gs-initial-spring-boot.git</developerConnection>
+    <connection>scm:git:file://.</connection>
+    <developerConnection>scm:git:file://.</developerConnection>
+    <url>scm:git:file://.</url>
     </scm>
 </project>
