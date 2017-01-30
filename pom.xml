@@ -36,8 +36,8 @@
     </build>
 
     <scm>
-    <connection>scm:git:file://.</connection>
-    <developerConnection>scm:git:file://.</developerConnection>
-    <url>scm:git:file://.</url>
+        <connection>scm:git:file://.</connection>
+        <developerConnection>scm:git:file://.</developerConnection>
+        <url>scm:git:file://.</url>
     </scm>
 </project>
