@@ -37,8 +37,8 @@
     </build>
 
     <scm>
-        <connection>scm:git:file://${main.basedir}</connection>
-        <developerConnection>scm:git:file://${main.basedir}</developerConnection>
-        <url>scm:git:file://${main.basedir}</url>
+		<connection>scm:git:ssh://git@github.com:tengomol/gs-initial-spring-boot.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:tengomol/gs-initial-spring-boot.git</developerConnection>
+		<url>https://github.com/tengomol/gs-initial-spring-boot.git</url>	
     </scm>
 </project>
