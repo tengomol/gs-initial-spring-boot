@@ -37,9 +37,9 @@
     </build>
 
     <scm>
-		<connection>scm:git:ssh://git@github.com:tengomol/gs-initial-spring-boot.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com:tengomol/gs-initial-spring-boot.git</developerConnection>
-		<url>scm:git:ssh://git@github.com:tengomol/gs-initial-spring-boot.git</url>	
+		<connection>scm:git:ssh://git@github.com/gs-initial-spring-boot.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/gs-initial-spring-boot.git</developerConnection>
+		<url>scm:git:ssh://git@github.com/gs-initial-spring-boot.git</url>	
     </scm>	
 	
 
